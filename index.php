@@ -29,7 +29,7 @@
        <div class="row">
            <div class="col col-12 col-sm-4"></div>
            <div class="col">
-            <center> <p class="text">CHOCALATE STORE</p></center>
+            <center> <p class="text">CHOCOLATE STORE</p></center>
                <table class="table">
                    <tr>
                        <td><button class="btn btn-primary">CONTINUE</button></td>

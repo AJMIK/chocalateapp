@@ -30,7 +30,7 @@
                   <center><p class="text1">ORDER DETAILS</p></center>
                   <table class="table">
                       <tr>
-                          <td>CHOCALATE NAME</td>
+                          <td>CHOCOLATE NAME</td>
                           <td><input type="text" class="form-control"></td>
                       </tr>
                       <tr>
